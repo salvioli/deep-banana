@@ -65,10 +65,3 @@ start the jupyter server
 ```bash
 python jupyter-notebook --no-browser --ip 127.0.0.1 --port 8888 --port-retries=0
 ```
-
-### Future development
-Agent's learning performances (number of episodes to solve the task) should be improved implementing the following:
-- Prioritized experience replay
-- Dueling DQN
-
-In addition, the same task should be solved starting from raw pixel observations.
