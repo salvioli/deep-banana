@@ -2,7 +2,7 @@
 A deep reinforcement learning agent that catches yellow bananas and avoids blue ones in a large square world simulated
 with Unity ML-Agents.
 
-This project is my solution to the navigation project of udacity's deep reinforcement learning nanodegree 
+This project is my solution to the navigation project of udacity's 
 [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).
 
 ## Project Details
